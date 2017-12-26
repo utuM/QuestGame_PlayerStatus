@@ -1,0 +1,405 @@
+# depslib dependency file v1.0
+1503013497 source:/usr/test1/test1/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"include/game_defines.h"
+	"include/game_ui.h"
+	"wiringPi.h"
+
+1492513643 h"
+
+1492513643 /usr/include/shapes.h
+	<VG/openvg.h>
+	<VG/vgu.h>
+	"fontinfo.h"
+
+1441476083 /usr/include/VG/openvg.h
+	<VG/vgplatform.h>
+
+1441476083 form.h>
+
+1441476083 /usr/include/VG/vgplatform.h
+	<KHR/khrplatform.h>
+
+1441476083 atform.h>
+
+1478870315 /usr/include/KHR/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1497901787 
+
+1497901763 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1497901763 size.h>
+
+1497901655 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1441476083 .h>
+
+1497901655 /usr/include/stdc-predef.h
+
+1497901763 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1441476083 /usr/include/VG/vgu.h
+	<VG/openvg.h>
+
+1492513643 /usr/include/fontinfo.h
+
+1440173077 /opt/vc/include/VG/openvg.h
+	"vgplatform.h"
+
+1440173077 m.h"
+
+1440173077 /opt/vc/include/VG/vgplatform.h
+	"../KHR/khrplatform.h"
+
+1440173077 rplatform.h"
+
+1443020734 /opt/vc/include/KHR/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<vcinclude/common.h>
+	<stdint.h>
+
+1440173077 /opt/vc/include/VG/vgu.h
+	"openvg.h"
+
+1497901769 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1497901769 o-ldbl.h>
+
+1497901769 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1497901769 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1497901778 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1497901778 r-ldbl.h>
+
+1497901803 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1497901781 >
+
+1497901776 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1497901776 swap.h>
+
+1497901659 /usr/include/xlocale.h
+
+1497901657 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1497901787 /usr/include/getopt.h
+	<ctype.h>
+
+1497901747 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1497901763 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1497901763 ib-ldbl.h>
+
+1497901763 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1503029799 source:/usr/test1/test1/include/game_defines.cpp
+	"game_defines.h"
+
+1503029799 nes.h"
+
+1503029822 /usr/test1/test1/include/game_defines.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"shapes.h"
+
+1503010066 source:/usr/test1/test1/include/game_ui.cpp
+	"game_ui.h"
+
+1502997496 "
+
+1503009956 /usr/test1/test1/include/game_ui.h
+	<iostream>
+	"game_defines.h"
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"shapes.h"
+
+1497901781 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1502909959 /usr/local/include/wiringPi.h
+
+1497901787 /usr/include/unistd.h
+	<features.h>
+	<bits/posix_opt.h>
+	<bits/environments.h>
+	<bits/types.h>
+	<stddef.h>
+	<bits/confname.h>
+	<getopt.h>
+	<bits/unistd.h>
+
+1497901787 td.h>
+
+1502997496 source:h:\piquestgame\include\game_ui.cpp
+	"game_ui.h"
+
+1502997496 h:\piquestgame\include\game_ui.h
+	<iostream>
+	"game_defines.h"
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"shapes.h"
+
+1503318322 h:\piquestgame\include\game_defines.h
+	<iostream>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"shapes.h"
+
+1503755148 source:/usr/piQuestGame/include/game_defines.cpp
+	"game_defines.h"
+
+1503652573 /usr/piQuestGame/include/game_defines.h
+	<iostream>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"game_ui.h"
+	"shapes.h"
+	"wiringPi.h"
+
+1503753746 source:/usr/piQuestGame/include/game_ui.cpp
+	"game_ui.h"
+
+1503753618 /usr/piQuestGame/include/game_ui.h
+	<iostream>
+	"game_defines.h"
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"shapes.h"
+
+1503754480 source:/usr/piQuestGame/main.cpp
+	<iostream>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"include/game_defines.h"
+	"include/game_ui.h"
+	"wiringPi.h"
+
+1505924275 source:/usr/piQuestGame_Project/include/game_defines.cpp
+	"game_defines.h"
+
+1505924189 /usr/piQuestGame_Project/include/game_defines.h
+	<iostream>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"game_ui.h"
+	"shapes.h"
+	"wiringPi.h"
+
+1505922957 /usr/piQuestGame_Project/include/game_ui.h
+	<iostream>
+	"game_defines.h"
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"shapes.h"
+
+1505924310 source:/usr/piQuestGame_Project/include/game_ui.cpp
+	"game_ui.h"
+
+1505923051 source:/usr/piQuestGame_Project/main.cpp
+	<iostream>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"include/game_defines.h"
+	"include/game_ui.h"
+	"wiringPi.h"
+
+1440173077 /usr/piQuestGame_Project/include/include/VG/openvg.h
+	"vgplatform.h"
+
+1440173077 /usr/piQuestGame_Project/include/include/VG/vgplatform.h
+	"../KHR/khrplatform.h"
+
+1440173077 /usr/piQuestGame_Project/include/include/VG/vgu.h
+	"openvg.h"
+
+1502909959 /usr/piQuestGame_Project/include/include/wiringPi.h
+
+1492513643 /usr/piQuestGame_Project/include/include/fontinfo.h
+
+1492513643 /usr/piQuestGame_Project/include/include/shapes.h
+	<VG/openvg.h>
+	<VG/vgu.h>
+	"fontinfo.h"
+
+1512590378 source:/home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/game_defines.cpp
+	"game_defines.h"
+
+1512588396 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/game_defines.h
+	<ctime>
+	<iostream>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"game_ui.h"
+	"shapes.h"
+	"wiringPi.h"
+
+1505900242 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/include/VG/openvg.h
+	"vgplatform.h"
+
+1505900244 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/include/VG/vgplatform.h
+	"../KHR/khrplatform.h"
+
+1478870315 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/include/KHR/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1505900246 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/include/VG/vgu.h
+	"openvg.h"
+
+1505900222 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/include/fontinfo.h
+
+1505900100 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/game_ui.h
+	<iostream>
+	"game_defines.h"
+	"VG/openvg.h"
+	"VG/vgu.h"
+	"fontinfo.h"
+	"shapes.h"
+
+1505900214 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/include/shapes.h
+	<VG/openvg.h>
+	<VG/vgu.h>
+	"fontinfo.h"
+
+1505900216 /home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/include/wiringPi.h
+
+1505900342 source:/home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/include/game_ui.cpp
+	"game_ui.h"
+
+1512590843 source:/home/pi/Downloads/__DEBUG_PROJ_06122017/piQuestGame_Project/piQuestGame_Project/main.cpp
+	<iostream>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"include/game_defines.h"
+	"include/game_ui.h"
+	"wiringPi.h"
+
